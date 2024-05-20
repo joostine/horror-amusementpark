@@ -252,6 +252,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 1e74abc2cf357ba42a33f15dc54f753c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -3846018093981099296, guid: dceeefcc26367dd44b8231ef53ba2eb8, type: 3}
     - target: {fileID: 919132149155446097, guid: 1e74abc2cf357ba42a33f15dc54f753c, type: 3}
       propertyPath: m_Name
       value: ticket booth
@@ -609,6 +613,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7918335002988649766, guid: 37ae0520a4262cf4284f2f5b14e9b781, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -3846018093981099296, guid: dceeefcc26367dd44b8231ef53ba2eb8, type: 3}
     - target: {fileID: 919132149155446097, guid: 37ae0520a4262cf4284f2f5b14e9b781, type: 3}
       propertyPath: m_Name
       value: carosuel
@@ -617,6 +625,22 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Untagged
       objectReference: {fileID: 0}
+    - target: {fileID: 2046689016624502398, guid: 37ae0520a4262cf4284f2f5b14e9b781, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e63b11fa53a2f1b42893d73f8c8645b9, type: 2}
+    - target: {fileID: 2920492702336434572, guid: 37ae0520a4262cf4284f2f5b14e9b781, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e63b11fa53a2f1b42893d73f8c8645b9, type: 2}
+    - target: {fileID: 5129908771471584123, guid: 37ae0520a4262cf4284f2f5b14e9b781, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e63b11fa53a2f1b42893d73f8c8645b9, type: 2}
+    - target: {fileID: 8662255854887324347, guid: 37ae0520a4262cf4284f2f5b14e9b781, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e63b11fa53a2f1b42893d73f8c8645b9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -986,6 +1010,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 1e74abc2cf357ba42a33f15dc54f753c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -3846018093981099296, guid: dceeefcc26367dd44b8231ef53ba2eb8, type: 3}
     - target: {fileID: 919132149155446097, guid: 1e74abc2cf357ba42a33f15dc54f753c, type: 3}
       propertyPath: m_Name
       value: ticket booth (1)
@@ -1243,6 +1271,67 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c83c3d1a942046aa9706fca318936, type: 3}
+--- !u!1001 &1129480030
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 30.990597
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.476824
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 93.29286
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.80620706
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.59163356
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -72.546
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_Name
+      value: carnival_sign
+      objectReference: {fileID: 0}
+    - target: {fileID: 6459273440559597719, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -3846018093981099296, guid: dceeefcc26367dd44b8231ef53ba2eb8, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a1d8f9447dd4a7f4ba813c3688e17684, type: 3}
 --- !u!1001 &1176328872
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2130,6 +2219,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: f674e8416d6f0214597b3b61a11a62c7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: b408edea2acb5b54893b9e526cdbbf55, type: 3}
     - target: {fileID: 919132149155446097, guid: f674e8416d6f0214597b3b61a11a62c7, type: 3}
       propertyPath: m_Name
       value: ferris wheel
@@ -2390,3 +2483,4 @@ SceneRoots:
   - {fileID: 1458801224}
   - {fileID: 1207141138}
   - {fileID: 1628855765}
+  - {fileID: 1129480030}
