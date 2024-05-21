@@ -18,7 +18,7 @@ public class UIScripts : MonoBehaviour
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("maddie 5-20 (2)");
     }
 
 

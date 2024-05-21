@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
+    public AudioSource AudioPlayer;
     public float moveSpeed = 200f; 
     public float rotationSpeed = 30f;
 
     void Start()
     {
-      
+      AudioPlayer = GetComponent<AudioSource>();
     }
 
     void Update()

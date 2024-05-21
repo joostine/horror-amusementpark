@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/maddie 5-20.unity
+    guid: 8ef0754da3aa7d449bc88d06e5f1ce09
   m_configObjects: {}
